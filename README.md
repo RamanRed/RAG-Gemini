@@ -23,8 +23,8 @@ This project is a simple yet powerful Q&A pipeline that allows you to query a PD
 
 ```plaintext
 📆pdf-gemini-qa/
- ├ 📄 main.py
- ├ 📄 requirements.txt
+ ├ 📄 rag.py
+ ├ 📄 requirements.txt (below you can see)
  ├ 📄 .env
  ├ 📄 How We Think.pdf
  ┗ 📁 chroma_db_nccn/
